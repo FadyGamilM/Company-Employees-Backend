@@ -1,0 +1,12 @@
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\bin\Debug\net6.0\CompanyEmployees.Entities.deps.json
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\bin\Debug\net6.0\CompanyEmployees.Entities.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\bin\Debug\net6.0\CompanyEmployees.Entities.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\obj\Debug\net6.0\CompanyEmployees.Entities.csproj.AssemblyReference.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\obj\Debug\net6.0\CompanyEmployees.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\obj\Debug\net6.0\CompanyEmployees.Entities.AssemblyInfoInputs.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\obj\Debug\net6.0\CompanyEmployees.Entities.AssemblyInfo.cs
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\obj\Debug\net6.0\CompanyEmployees.Entities.csproj.CoreCompileInputs.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\obj\Debug\net6.0\CompanyEmployees.Entities.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\obj\Debug\net6.0\refint\CompanyEmployees.Entities.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\obj\Debug\net6.0\CompanyEmployees.Entities.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Entities\obj\Debug\net6.0\ref\CompanyEmployees.Entities.dll

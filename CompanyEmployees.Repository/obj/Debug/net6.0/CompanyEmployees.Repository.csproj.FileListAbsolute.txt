@@ -1,0 +1,15 @@
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\bin\Debug\net6.0\CompanyEmployees.Repository.deps.json
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\bin\Debug\net6.0\CompanyEmployees.Repository.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\bin\Debug\net6.0\CompanyEmployees.Repository.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\bin\Debug\net6.0\CompanyEmployees.Entities.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\bin\Debug\net6.0\CompanyEmployees.Entities.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\CompanyEmployees.Repository.csproj.AssemblyReference.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\CompanyEmployees.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\CompanyEmployees.Repository.AssemblyInfoInputs.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\CompanyEmployees.Repository.AssemblyInfo.cs
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\CompanyEmployees.Repository.csproj.CoreCompileInputs.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\CompanyEmployees.Repository.csproj.CopyComplete
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\CompanyEmployees.Repository.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\refint\CompanyEmployees.Repository.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\CompanyEmployees.Repository.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\ref\CompanyEmployees.Repository.dll
