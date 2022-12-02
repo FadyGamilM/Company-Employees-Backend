@@ -1,0 +1,15 @@
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\bin\Debug\net6.0\CompanyEmployees.Service.Contracts.deps.json
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\bin\Debug\net6.0\CompanyEmployees.Service.Contracts.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\bin\Debug\net6.0\CompanyEmployees.Service.Contracts.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\bin\Debug\net6.0\CompanyEmployees.Entities.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\bin\Debug\net6.0\CompanyEmployees.Entities.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\obj\Debug\net6.0\CompanyEmployees.Service.Contracts.csproj.AssemblyReference.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\obj\Debug\net6.0\CompanyEmployees.Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\obj\Debug\net6.0\CompanyEmployees.Service.Contracts.AssemblyInfoInputs.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\obj\Debug\net6.0\CompanyEmployees.Service.Contracts.AssemblyInfo.cs
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\obj\Debug\net6.0\CompanyEmployees.Service.Contracts.csproj.CoreCompileInputs.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\obj\Debug\net6.0\CompanyEmployees.Service.Contracts.csproj.CopyComplete
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\obj\Debug\net6.0\CompanyEmployees.Service.Contracts.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\obj\Debug\net6.0\refint\CompanyEmployees.Service.Contracts.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\obj\Debug\net6.0\CompanyEmployees.Service.Contracts.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Service.Contracts\obj\Debug\net6.0\ref\CompanyEmployees.Service.Contracts.dll

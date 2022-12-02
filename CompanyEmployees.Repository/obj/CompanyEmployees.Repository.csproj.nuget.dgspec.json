@@ -30,7 +30,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Entities\\CompanyEmployees.Entities.csproj": {
+                "projectPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Entities\\CompanyEmployees.Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

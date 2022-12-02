@@ -13,3 +13,5 @@ E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backe
 E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\refint\CompanyEmployees.Repository.dll
 E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\CompanyEmployees.Repository.pdb
 E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\obj\Debug\net6.0\ref\CompanyEmployees.Repository.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\bin\Debug\net6.0\CompanyEmployees.Contracts.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Repository\bin\Debug\net6.0\CompanyEmployees.Contracts.pdb

@@ -250,6 +250,9 @@
       "CompanyEmployees.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CompanyEmployees.Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CompanyEmployees.Contracts.dll": {}
         },

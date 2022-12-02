@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "vFqfzj9r5/HIwt5EZDZB/HXEBm9jWWp8saqKTHdkZK8=",
-  "Source": "CompanyEmployees.API",
-  "BasePath": "_content/CompanyEmployees.API",
+  "Hash": "BQ7ul6YKFiEHsWbtxMkrf4F9tXPi8uWiG6mGG1OFmiI=",
+  "Source": "CompanyEmployees.Main",
+  "BasePath": "_content/CompanyEmployees.Main",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

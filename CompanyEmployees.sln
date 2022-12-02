@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees.API", "CompanyEmployees.API\CompanyEmployees.API.csproj", "{A52FE944-4964-4FDE-A3A7-8582C5A957EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyEmployees.Main", "CompanyEmployees.API\CompanyEmployees.Main.csproj", "{A52FE944-4964-4FDE-A3A7-8582C5A957EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees.Entities", "CompanyEmployees.Entities\CompanyEmployees.Entities.csproj", "{49EF1442-8D5A-4C65-BE05-F67CC120DB8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyEmployees.Entities", "CompanyEmployees.Entities\CompanyEmployees.Entities.csproj", "{49EF1442-8D5A-4C65-BE05-F67CC120DB8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees.Repository", "CompanyEmployees.Repository\CompanyEmployees.Repository.csproj", "{84BDCD50-19F5-4518-AAF5-8F038F263977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyEmployees.Repository", "CompanyEmployees.Repository\CompanyEmployees.Repository.csproj", "{84BDCD50-19F5-4518-AAF5-8F038F263977}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees.Contracts", "CompanyEmployees.Contracts\CompanyEmployees.Contracts.csproj", "{38069A89-4A7B-4B2D-A629-4FF6EB83C24D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyEmployees.Contracts", "CompanyEmployees.Contracts\CompanyEmployees.Contracts.csproj", "{38069A89-4A7B-4B2D-A629-4FF6EB83C24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees.Service.Contracts", "CompanyEmployees.Service.Contracts\CompanyEmployees.Service.Contracts.csproj", "{E776FD76-A3D9-47FA-9861-91F4B93E258B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees.Service", "CompanyEmployees.Service\CompanyEmployees.Service.csproj", "{630DD9AB-63DE-4652-A72A-EE8A82FEC8B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyEmployees.Presentation", "CompanyEmployees.Presentation\CompanyEmployees.Presentation.csproj", "{EB0B06F5-D098-44ED-8622-A0E1B4B7589D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{38069A89-4A7B-4B2D-A629-4FF6EB83C24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38069A89-4A7B-4B2D-A629-4FF6EB83C24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38069A89-4A7B-4B2D-A629-4FF6EB83C24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E776FD76-A3D9-47FA-9861-91F4B93E258B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E776FD76-A3D9-47FA-9861-91F4B93E258B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E776FD76-A3D9-47FA-9861-91F4B93E258B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E776FD76-A3D9-47FA-9861-91F4B93E258B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630DD9AB-63DE-4652-A72A-EE8A82FEC8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630DD9AB-63DE-4652-A72A-EE8A82FEC8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630DD9AB-63DE-4652-A72A-EE8A82FEC8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630DD9AB-63DE-4652-A72A-EE8A82FEC8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0B06F5-D098-44ED-8622-A0E1B4B7589D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0B06F5-D098-44ED-8622-A0E1B4B7589D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0B06F5-D098-44ED-8622-A0E1B4B7589D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0B06F5-D098-44ED-8622-A0E1B4B7589D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

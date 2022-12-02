@@ -5,6 +5,9 @@
       "CompanyEmployees.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CompanyEmployees.Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CompanyEmployees.Contracts.dll": {}
         },
@@ -12,9 +15,22 @@
           "bin/placeholder/CompanyEmployees.Contracts.dll": {}
         }
       },
+      "CompanyEmployees.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CompanyEmployees.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompanyEmployees.Entities.dll": {}
+        }
+      },
       "CompanyEmployees.Service.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CompanyEmployees.Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CompanyEmployees.Service.Contracts.dll": {}
         },
@@ -30,6 +46,11 @@
       "path": "../CompanyEmployees.Contracts/CompanyEmployees.Contracts.csproj",
       "msbuildProject": "../CompanyEmployees.Contracts/CompanyEmployees.Contracts.csproj"
     },
+    "CompanyEmployees.Entities/1.0.0": {
+      "type": "project",
+      "path": "../CompanyEmployees.Entities/CompanyEmployees.Entities.csproj",
+      "msbuildProject": "../CompanyEmployees.Entities/CompanyEmployees.Entities.csproj"
+    },
     "CompanyEmployees.Service.Contracts/1.0.0": {
       "type": "project",
       "path": "../CompanyEmployees.Service.Contracts/CompanyEmployees.Service.Contracts.csproj",
@@ -39,6 +60,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "CompanyEmployees.Contracts >= 1.0.0",
+      "CompanyEmployees.Entities >= 1.0.0",
       "CompanyEmployees.Service.Contracts >= 1.0.0"
     ]
   },
@@ -75,6 +97,9 @@
           "projectReferences": {
             "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Contracts\\CompanyEmployees.Contracts.csproj": {
               "projectPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Contracts\\CompanyEmployees.Contracts.csproj"
+            },
+            "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Entities\\CompanyEmployees.Entities.csproj": {
+              "projectPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Entities\\CompanyEmployees.Entities.csproj"
             },
             "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service.Contracts\\CompanyEmployees.Service.Contracts.csproj": {
               "projectPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service.Contracts\\CompanyEmployees.Service.Contracts.csproj"

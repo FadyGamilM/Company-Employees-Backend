@@ -1,0 +1,17 @@
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.deps.json
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Entities.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Service.Contracts.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Service.Contracts.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Entities.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.AssemblyReference.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.AssemblyInfoInputs.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.AssemblyInfo.cs
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.CoreCompileInputs.cache
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.CopyComplete
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\refint\CompanyEmployees.Presentation.dll
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.pdb
+E:\1- freelancing path\backend\ultimateBackendWebApiBook\Company-Employees-Backend\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\ref\CompanyEmployees.Presentation.dll

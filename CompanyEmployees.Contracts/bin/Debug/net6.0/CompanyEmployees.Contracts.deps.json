@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CompanyEmployees.Contracts/1.0.0": {
+        "dependencies": {
+          "CompanyEmployees.Entities": "1.0.0"
+        },
+        "runtime": {
+          "CompanyEmployees.Contracts.dll": {}
+        }
+      },
+      "CompanyEmployees.Entities/1.0.0": {
+        "runtime": {
+          "CompanyEmployees.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompanyEmployees.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompanyEmployees.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

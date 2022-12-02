@@ -33,6 +33,9 @@
             "projectReferences": {
               "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Repository\\CompanyEmployees.Repository.csproj": {
                 "projectPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Repository\\CompanyEmployees.Repository.csproj"
+              },
+              "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service\\CompanyEmployees.Service.csproj": {
+                "projectPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service\\CompanyEmployees.Service.csproj"
               }
             }
           }
@@ -248,6 +251,129 @@
               "version": "[6.0.6, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service.Contracts\\CompanyEmployees.Service.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service.Contracts\\CompanyEmployees.Service.Contracts.csproj",
+        "projectName": "CompanyEmployees.Service.Contracts",
+        "projectPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service.Contracts\\CompanyEmployees.Service.Contracts.csproj",
+        "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
+        "outputPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service\\CompanyEmployees.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service\\CompanyEmployees.Service.csproj",
+        "projectName": "CompanyEmployees.Service",
+        "projectPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service\\CompanyEmployees.Service.csproj",
+        "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
+        "outputPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Contracts\\CompanyEmployees.Contracts.csproj": {
+                "projectPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Contracts\\CompanyEmployees.Contracts.csproj"
+              },
+              "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service.Contracts\\CompanyEmployees.Service.Contracts.csproj": {
+                "projectPath": "E:\\1- freelancing path\\backend\\ultimateBackendWebApiBook\\Company-Employees-Backend\\CompanyEmployees\\CompanyEmployees.Service.Contracts\\CompanyEmployees.Service.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

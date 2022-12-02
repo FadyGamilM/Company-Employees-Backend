@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -15,7 +15,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CompanyEmployees.Contracts\CompanyEmployees.Contracts.csproj" />
     <ProjectReference Include="..\CompanyEmployees.Repository\CompanyEmployees.Repository.csproj" />
+    <ProjectReference Include="..\CompanyEmployees.Service.Contracts\CompanyEmployees.Service.Contracts.csproj" />
+    <ProjectReference Include="..\CompanyEmployees.Service\CompanyEmployees.Service.csproj" />
+	<ProjectReference Include="..\CompanyEmployees.Presentation\CompanyEmployees.Presentation.csproj" />
   </ItemGroup>
 
 </Project>

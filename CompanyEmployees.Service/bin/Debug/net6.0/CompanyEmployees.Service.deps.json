@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CompanyEmployees.Service/1.0.0": {
+        "dependencies": {
+          "CompanyEmployees.Contracts": "1.0.0",
+          "CompanyEmployees.Entities": "1.0.0",
+          "CompanyEmployees.Service.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "CompanyEmployees.Service.dll": {}
+        }
+      },
+      "CompanyEmployees.Contracts/1.0.0": {
+        "dependencies": {
+          "CompanyEmployees.Entities": "1.0.0"
+        },
+        "runtime": {
+          "CompanyEmployees.Contracts.dll": {}
+        }
+      },
+      "CompanyEmployees.Entities/1.0.0": {
+        "runtime": {
+          "CompanyEmployees.Entities.dll": {}
+        }
+      },
+      "CompanyEmployees.Service.Contracts/1.0.0": {
+        "dependencies": {
+          "CompanyEmployees.Entities": "1.0.0"
+        },
+        "runtime": {
+          "CompanyEmployees.Service.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompanyEmployees.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompanyEmployees.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompanyEmployees.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompanyEmployees.Service.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

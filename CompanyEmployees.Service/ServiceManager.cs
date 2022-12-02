@@ -5,7 +5,7 @@ using CompanyEmployees.Service.Contracts;
 
 namespace CompanyEmployees.Service;
 
-public class ServiceManager
+public class ServiceManager : IServiceManager
 {
     // private fields
     private readonly Lazy<IEmployeeService> _employeeService;
