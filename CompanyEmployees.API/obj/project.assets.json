@@ -783,6 +783,16 @@
           }
         }
       },
+      "CompanyEmployees.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CompanyEmployees.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompanyEmployees.Contracts.dll": {}
+        }
+      },
       "CompanyEmployees.Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -797,6 +807,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "CompanyEmployees.Contracts": "1.0.0",
           "CompanyEmployees.Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.6"
         },
@@ -2026,6 +2037,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CompanyEmployees.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../CompanyEmployees.Contracts/CompanyEmployees.Contracts.csproj",
+      "msbuildProject": "../CompanyEmployees.Contracts/CompanyEmployees.Contracts.csproj"
     },
     "CompanyEmployees.Entities/1.0.0": {
       "type": "project",
